@@ -8,4 +8,6 @@
 /.idea/vcs.xml
 /.ipynb_checkpoints/DataTypesandStructures-checkpoint.ipynb
 /.ipynb_checkpoints/NumericalComputingWithNumPy-checkpoint.ipynb
-/array.apy
+array.apy
+.ipynb_checkpoints
+.idea
