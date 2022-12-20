@@ -4,6 +4,8 @@
 
 Contributor(s): Stephen CUI
 
+Status：Updating(更新中)
+
 这个库将包含笔记与相关的代码：
 
 1. 第一部分：Python与金融
