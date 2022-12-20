@@ -1,6 +1,37 @@
-Python for Finance, Second Edition
-Learning Notes
-This repository will contain 5 major sections with 21 chapters and two appendices.
-Stephen CUI
-[SWJTU]Southwest Jiaotong University
-Follow the spirit of open source
+# Python 金融大数据分析（Python for Finance）
+
+## P4F
+
+Contributor(s): Stephen CUI
+
+这个库将包含笔记与相关的代码：
+
+1. 第一部分：Python与金融
+   - 第1章：为什么将Python用于金融
+   - 第2章：Python基础架构
+2. 第二部分：掌握基础知识
+   - 第3章：数据类型与结构
+   - 第4章：用Numpy进行数值计算
+   - 第5章：pandas数据分析
+   - 第6章：面向对象编程
+3. 第三部分：金融数据科学
+   - 第7章：
+   - 第8章：
+   - 第9章：
+   - 第10章：
+   - 第11章：
+   - 第12章：
+   - 第13章：
+4. 第四部分：算法交易
+   - 第14章：
+   - 第15章：
+   - 第16章
+5. 第五部分：衍生品分析
+   - 第17章：
+   - 第18章：
+   - 第19章：
+   - 第20章：
+   - 第21章：
+6. 附录：
+   - A：日期与时间
+   - B：BSM期权类
